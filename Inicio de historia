@@ -1,0 +1,73 @@
+PRIMERA PARTE. EL PRISIONERO.
+
+I.	El encuentro con el prisionero
+
+Se escucha una voz cantando…
+
+Prisionero: “…sé que mi hogar va a ser el mar, donde el este, yo estoy…Yo-jo todos los marinos, la bandera izar, tiren fuerte, ladrones y pordioseros, nunca moriremos…Yo-jo todos juntos, la bandera izar…”
+- ¿Hay alguien allí?
+a) Si (Comienza el juego) “¿Cuál es tu nombre?”
+b) No (El prisionero sigue cantando)
+Prisionero: “Y somos tan malos como un huracán, todos brindando
+Yo-jo...Yo-jo...Yo-jo piratas siempre seremos…”
+- ¿Quién está allí?
+
+a)	y b) Introduce tu nombre: ______________________.
+
+Prisionero: Hace tiempo que no venía nadie por aquí. ¿Podrías liberarme?
+* Sí. 
+Prisionero: “Para liberarme necesitas resolver el acertijo que está grabado en la pared”
+Instrucción: ¿Leer acertijo?
+1.	Sí (Insertar acertijo) 
+Si la respuesta al acertijo es correcta, liberar al prisionero.
+Si la respuesta es incorrecta imprimir: “La respuesta es incorrecta” e insertar el acertijo nuevamente.
+Si después de tres intentos el usuario no llega a la respuesta correcta ¿Insertar otro acertijo?
+2.	No
+Prisionero: “Necesitas resolver el acertijo para liberarme”
+Instrucción: ¿Leer acertijo?
+1.	Sí (Insertar acertijo) 
+2.	No (Repetir diálogo del prisionero 3 veces “Necesitas resolver el acertijo para liberarme”)
+Si el usuario insiste en no leer el acertijo, dar la opción de salida
+
+Instrucción: ¿Salir del juego?
+a)	Sí. Prisionero: “Vaya, hubiéramos podido ser amigos ” (Se muestra el Menú del Juego)
+b)	No. Prisionero: “Ya nos estamos entendiendo”. (Se imprime el acertijo)
+* No 
+Prisionero: Puedo ayudarte a salir de aquí
+Instrucción: ¿Liberar al prisionero?
+a)	Si. (Imprimir el acertijo)
+b)	No. Prisionero: Entonces no podrás salir.
+Instrucción: ¿Liberar al prisionero?
+a)	Si. (Imprimir el acertijo)
+b)	No. Prisionero: “Tengo un montón de ricos cocos, tirili, ahí están en fila míralos, grandes, chichos, tan enanos como ves…”
+La instrucción se repite tres veces más, si el usuario no cambia de parecer dar opción de salida.
+Instrucción: ¿Liberar al prisionero?
+c)	Si. (Imprimir el acertijo)
+d)	No. Prisionero: “Tengo un montón de ricos cocos, tirili, ahí están en fila míralos, grandes, chichos, tan enanos como ves…”
+La instrucción se repite tres veces más, si el usuario no cambia de parecer dar opción de salida.
+Instrucción: ¿Salir del juego?
+a)	Sí. Prisionero: “Vaya, hubiéramos podido ser amigos ” (Se muestra el Menú del Juego)
+b)	No. Prisionero: “Ya nos estamos entendiendo”. (Se imprime el acertijo)
+
+II.	El prisionero ha sido liberado
+
+Prisionero: Gracias nombre del jugador, creí que nunca saldría de aquí… llevaba tres largas horas encerrado. ¿Cómo llegaste? ¿No lo sabes? Seguramente le diste en empezar “Juego Nuevo”, ¡gran error!, este bosque ha sido hechizado por Chronos y no hay nada que podamos hacer al respecto… A menos que… encuentres las ruinas y rescates el alma de Pan, el dios del bosque. ¿Lo harás? ¿O te quedarás en el camino?... Vale. Escribe continuar en el teclado.
+
+
+Insertar la palabra continuar
+Prisionero: Bien, te recomiendo que estés atento a los obstáculos del bosque ya que algunos pueden costarte la vida. Mucha suerte.
+
+Imprimir pantalla…
+
+Instrucciones: Presiona 
+
+
+1.	Encuentro con el Gnomo
+Primus: ¿Quién anda allí?
+(Insertar nombre)
+•	Si el nombre no es el mismo que el jugador dio al inicio. Iniciar ciclo
+Primus: “Sé distinguir cuando un humano miente, y tú no eres quien dice ser… ¿Quién eres?” Repetir hasta que el jugador dé el nombre correcto.
+•	Si el nombre es correcto:
+Primus: “Y bien (nombre del jugador) ¿Qué es lo que te trae por aquí? ¿Acaso quieres robar el tesoro?
+a)	Si. 
+Primus: “No lo lograras, yo soy el guardián de este tesoro, que pertenece al grandioso Grendel, uno de los dragones que se encuentran en las montañas, aunque… 
