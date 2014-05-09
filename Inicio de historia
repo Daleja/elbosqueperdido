@@ -60,9 +60,9 @@ Prisionero: Bien, te recomiendo que estés atento a los obstáculos del bosque y
 Imprimir pantalla…
 
 Instrucciones: Presiona 
+	
 
-
-1.	Encuentro con el Gnomo
+III.	Encuentro con el Gnomo1
 Primus: ¿Quién anda allí?
 (Insertar nombre)
 •	Si el nombre no es el mismo que el jugador dio al inicio. Iniciar ciclo
@@ -70,4 +70,67 @@ Primus: “Sé distinguir cuando un humano miente, y tú no eres quien dice ser�
 •	Si el nombre es correcto:
 Primus: “Y bien (nombre del jugador) ¿Qué es lo que te trae por aquí? ¿Acaso quieres robar el tesoro?
 a)	Si. 
-Primus: “No lo lograras, yo soy el guardián de este tesoro, que pertenece al grandioso Grendel, uno de los dragones que se encuentran en las montañas, aunque… 
+Primus: “No lo lograras, yo soy el guardián de este tesoro, que pertenece al grandioso Grendel, uno de los dragones que se encuentran en las montañas, aunque… podríamos hacer un trato…” 
+Instrucción: ¿Hacer trato?
+1.	Sí. Primus: “Me ayudaras a resolver un acertijo a cambio del tesoro” 
+2.	No (Ir a la opción b)
+b)	No. Primus: “Vale, entonces sigue tu camino y ten cuidado con las ninfas…”
+
+IV.	Encuentro con la Gorgona
+Medusa: “¿Que tenemos por aquí? ¿Acaso, vienes a hacerme compañía por el resto de tu vida?... Porque si quieres pasar tendrás que hacer algo a cambio, ¿Aceptas?”
+a)	Si.
+Medusa: “Muy bien. Tendrás que resolver un acertijo, pero recuerda que si no lo contestas te quedaras aquí en este increíble bosque, acompañándome como una estatua más”
+Instrucción: ¿Resolver acertijo? Solo tendrás una oportunidad
+1.	Si. (Imprimir el acertijo)
+2.	No. Medusa: “No tengas miedo, no te hare daño (Muajajajaja)… Entonces, ¿Quieres salir del juego?(Escribe: Si), o ¿Quieres iniciar un juego nuevo?(Escribe: No)”
+
+a)	Respuesta correcta: Medusa: “Esta bien, puedes seguir con tu camino. Ya  me tocara tener nueva compañía”
+b)	Respuesta incorrecta: Medusa: “Bienvenido seas. Te he estado esperado. ¿Dónde deseas estar? Está bien, no importa ahí te quedaras :D “
+Instrucción: Has perdido. Medusa te convirtió en piedra, ¿Deseas iniciar un nuevo juego?
+1.	Si. (Iniciar otro juego)
+2.	No. (Salir del juego)
+
+V.	Encuentro con el Gigante
+Polifemo: “¡Miren! Ha llegado a mí un jugoso bocadillo… ¡Mmm, Delicioso! Alto ahí, no podrás pasar, no sin antes resolverme un acertijo. Pero si te equivocas, te devorare ¡Tengo mucha hambre!” 
+
+            Instrucción: ¿Resolver acertijo? Solo tendrás una oportunidad
+1.	Si. (Imprimir el acertijo)
+2.	No. 
+a)	¿Salir del juego?
+Si. (Salir del juego)
+No. Polifemo: “No te vayas, estoy impaciente por mi comida”. ¿Resolver acertijo?
+Si. (Imprimir el acertijo)
+c)	Respuesta correcta: Polifemo: “Baahhh… adelante, sigue con tu camino. Alguien tendrá que atraparte”
+d)	Respuesta incorrecta: Polifemo: “Yomi, Yomi… me muero de hambre“
+            Instrucción: Has perdido. Polifemo te ha devorado, ¿Deseas iniciar un       nuevo juego?
+1.	Si. (Iniciar otro juego)
+2.	No. (Salir del juego)
+
+
+
+VI.	Encuentro con la Ninfa
+Alseides: “¿Quién se ha atrevido a pisar mis flores, mis hermosas amapolas? Tu…tu, inmundo humano ¡detente! te atreviste a desafiarme, y no te dejare pasar. Te quedaras atrapado bajo mi custodia… A menos, que contestes un acertijo…” 
+Instrucción: ¿Resolver acertijo?
+1.	Si. (Imprimir acertijo)
+2.	No.
+¿Salir del juego? 
+Si. (Salir del juego)
+b)	Respuesta correcta: Alseides: “Nooo… por esta vez te has salvado de mi venganza, pero ya vendrá mi oportunidad, pasa antes de que cambie de parecer”
+c)	Respuesta incorrecta: Alseides: “Bien… ya veras, que con mis flores nadie se mete“
+            Instrucción: Has perdido, te has quedado atrapado en el bosque con Alseides. ¿Deseas iniciar un       nuevo juego?
+1.	Si. (Iniciar otro juego)
+2.	No. (Salir del juego)
+
+VII.	Encuentro con el Gnomo2
+
+
+
+
+
+
+VIII.	Encuentro con la Esfinge
+
+
+
+
+IX.	Encuentro con la Sirena
